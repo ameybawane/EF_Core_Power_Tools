@@ -1,7 +1,5 @@
 # EF_Core_Power_Tools
 
-Getting Started | Feedback
-
 Useful design-time DbContext features, added to the Visual Studio Solution Explorer context menu.
 
 When right-clicking on a C# project, the following context menu functions are available:
@@ -21,3 +19,5 @@ Add AsDgml() extension method - Adds an extension method to generate a DGML grap
 About - Displays version and other diagnostic information about your Visual Studio instance.
 
 ![image](https://user-images.githubusercontent.com/60310813/199805910-0255eab0-ee0a-456e-84e8-d5a6703898e0.png)
+
+Download URL: https://marketplace.visualstudio.com/_apis/public/gallery/publishers/ErikEJ/vsextensions/EFCorePowerTools/2.5.1145/vspackage
