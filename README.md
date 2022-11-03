@@ -21,3 +21,12 @@ About - Displays version and other diagnostic information about your Visual Stud
 ![image](https://user-images.githubusercontent.com/60310813/199805910-0255eab0-ee0a-456e-84e8-d5a6703898e0.png)
 
 Download URL: https://marketplace.visualstudio.com/_apis/public/gallery/publishers/ErikEJ/vsextensions/EFCorePowerTools/2.5.1145/vspackage
+
+Categories
+  *Tools
+  *Data
+  *Modeling
+  *Scaffolding
+
+Works with
+Visual Studio 2019, 2022 (amd64)
